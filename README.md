@@ -1,6 +1,10 @@
 # RestAPIUsingFlask
 # CPSC-449 : Web Backend Engineering
 
+Project Members:
+* Nandish Amin
+* Saloni Modi
+
 Flask Project with JWT Authentication and MySQL Database
 This Flask project demonstrates how to use JWT authentication and a MySQL database to build a secure and scalable web application.
 
